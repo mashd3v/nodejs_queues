@@ -1,4 +1,4 @@
-# Basic socket in NodeJS
+# Queues application with sockets
 
 Remember install all the node_modules:
 
